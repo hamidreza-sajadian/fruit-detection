@@ -1,0 +1,13 @@
+﻿split,class,image_count
+train,Apple,56
+train,Banana,56
+train,Pomegranate,56
+train,Watermelon,56
+validation,Apple,12
+validation,Banana,12
+validation,Pomegranate,12
+validation,Watermelon,12
+test,Apple,12
+test,Banana,12
+test,Pomegranate,12
+test,Watermelon,12
